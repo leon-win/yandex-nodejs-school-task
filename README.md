@@ -2,7 +2,7 @@
 
 ## Описание и запуск
 
-Работающий проект можно увидеть на странице https://leon-vinogradov.github.io/yandex-nodejs-school-task/dist/
+Работающий проект можно увидеть на странице <https://leon-vinogradov.github.io/yandex-nodejs-school-task/dist/>
 
 Задание выполнено с использованием фрэймворка [VueJS](https://vuejs.org/).
 
