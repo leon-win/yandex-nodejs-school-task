@@ -2,12 +2,13 @@
 
 ## Описание и запуск
 
+Работающий проект можно увидеть на странице https://leon-vinogradov.github.io/yandex-nodejs-school-task/dist/
+
 Задание выполнено с использованием фрэймворка [VueJS](https://vuejs.org/).
 
 Стандарт языка — [ECMAScript 2015](https://www.ecma-international.org/ecma-262/6.0/), компилируется транспайлером [Babel](https://babeljs.io/) (конфигурация [babel-preset-env](https://github.com/babel/babel-preset-env)).
 
 Сборка осуществляется с помощью бандлера [webpack](https://webpack.js.org/) командой `yarn build` или `npm run build`.
-
 
 Локальный сервер разработки запускается командой `yarn dev` или `npm run dev` в корневой папке проекта.
 
