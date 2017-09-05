@@ -1,0 +1,25 @@
+{
+  "name": "yandex-nodejs-school-task",
+  "description": "Yandex NodeJS school entrance exam task",
+  "version": "1.0.0",
+  "author": "Leon Vinogradov <leon.vinogradov@gmail.com>",
+  "private": true,
+  "scripts": {
+    "build": "yarn && webpack",
+    "dev": "webpack-dev-server --open"
+  },
+  "dependencies": {
+    "vue": "2.4.2"
+  },
+  "devDependencies": {
+    "babel-core": "6.26.0",
+    "babel-loader": "7.1.2",
+    "babel-preset-env": "1.6.0",
+    "css-loader": "0.28.7",
+    "copy-webpack-plugin": "4.0.1",
+    "vue-loader": "13.0.4",
+    "vue-template-compiler": "2.4.2",
+    "webpack": "3.5.5",
+    "webpack-dev-server": "2.7.1"
+  }
+}
